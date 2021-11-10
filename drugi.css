@@ -1,11 +1,10 @@
 html,body{
 margin: 0;
 padding:0;
-overflow: auto;
 background: url("bazen.jpg") center fixed;
 }
 .meni {
-  overflow: hidden;
+
   background:black fixed top;
 }
 @media screen and (max-width: 600px)
